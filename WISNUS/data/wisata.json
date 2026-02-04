@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1769623924,
+        "nama": "Jam Gadang",
+        "daerah": "Bukittinggi",
+        "kategori": "Sejarah",
+        "deskripsi": "Indah dan Bagus",
+        "gambar": "uploads\/1769623924_JamGadang.jpg",
+        "user": "Guest"
+    },
+    {
+        "id": 1769625933,
+        "nama": "Puncak Gagoan",
+        "daerah": "Nagari Paninggahan, Kecamatan Junjung Sirih, Kabupaten Solok, Provinsi Sumatera Barat",
+        "kategori": "Panorama",
+        "deskripsi": "Tempat yang sangat direkomendasikan",
+        "gambar": "uploads\/1769625933_PuncakGagoan.jpg",
+        "user": "user",
+        "role_user": "user",
+        "tanggal": "2026-01-28 18:45:33"
+    },
+    {
+        "id": 1769627111,
+        "nama": "Lembah Harau ",
+        "daerah": "Payakumbuh di Kabupaten Lima Puluh Kota, provinsi Sumatera Barat.",
+        "kategori": "Panorama",
+        "deskripsi": "Tempat yang sangat asri",
+        "gambar": "uploads\/1769627111_LembahHarau.jpg",
+        "user": "admin",
+        "role_user": "admin",
+        "tanggal": "2026-01-28 19:05:11"
+    },
+    {
+        "id": 1769627231,
+        "nama": "Istana Siak",
+        "daerah": "Riau",
+        "kategori": "Sejarah",
+        "deskripsi": "Good",
+        "gambar": "uploads\/1769627231_IstanaSiak.jpg",
+        "user": "Tamu_892f",
+        "role_user": "guest",
+        "tanggal": "2026-01-28 19:07:11"
+    },
+    {
+        "id": 1769668396,
+        "nama": "Sungai Kuantan",
+        "daerah": "Kuantan Singingi, Riau",
+        "kategori": "Sungai",
+        "deskripsi": "sungai yang ada di kuantan singingi, digunakan untuk arena pacu jalur",
+        "gambar": "uploads\/1769668396_SungaiKuantan.webp",
+        "user": "repin",
+        "role_user": "user",
+        "tanggal": "2026-01-29 06:33:16"
+    },
+    {
+        "id": 1769674416,
+        "nama": "Candi Muara Takus",
+        "daerah": "Desa Muara Takus, Kecamatan XIII Koto, Kabupaten Kampar, Riau, Indonesia",
+        "kategori": "Sejarah",
+        "deskripsi": "Peninggalan Sejarah",
+        "gambar": "uploads\/1769674416_CandiMuaraTakus.webp",
+        "user": "admin",
+        "role_user": "admin",
+        "tanggal": "2026-01-29 08:13:36"
+    },
+    {
+        "id": 1769674637,
+        "nama": "Puncak Koto Panjang",
+        "daerah": "Nagari Lansekkadok, Kecamatan Rao Selatan, Kabupaten Pasaman, Sumatra Barat.",
+        "kategori": "Panorama",
+        "deskripsi": "Bagus",
+        "gambar": "uploads\/1769674637_PuncakKotoPanjang.jpg",
+        "user": "admin",
+        "role_user": "admin",
+        "tanggal": "2026-01-29 08:17:17"
+    },
+    {
+        "id": 1769702205,
+        "nama": "Air Terjun Kasang",
+        "daerah": "Kuantan Singingi, Lubuk Jambi",
+        "kategori": "Sungai",
+        "deskripsi": "air terjun",
+        "gambar": "uploads\/1769702205_AirTerjunKasang.jpg",
+        "user": "admin",
+        "role_user": "admin",
+        "tanggal": "2026-01-29 15:56:45"
+    },
+    {
+        "id": 1769761539,
+        "nama": "Alahan Panjang",
+        "daerah": "Kabupaten Solok, Provinsi Sumatera Barat, Indonesia, Kecamatan Lembah Gumanti.",
+        "kategori": "Sungai",
+        "deskripsi": "Indah",
+        "gambar": "uploads\/1769761539_AlahanPanjang.jpg",
+        "user": "user",
+        "role_user": "user",
+        "tanggal": "2026-01-30 08:25:39"
+    },
+    {
+        "id": 1769933009,
+        "nama": "Danau Buatan",
+        "daerah": "Pekanbaru, Riau",
+        "kategori": "Sungai",
+        "deskripsi": "View bagus",
+        "gambar": "uploads\/1769933009_DanauBuatan.webp",
+        "user": "adit",
+        "role_user": "user",
+        "tanggal": "2026-02-01 08:03:29"
+    },
+    {
+        "id": 1769977280,
+        "nama": "Asia Farm",
+        "daerah": "Pekanbaru",
+        "kategori": "Panorama",
+        "deskripsi": "taman",
+        "gambar": "uploads\/1769977280_AsiaFarm.webp",
+        "status": "publish",
+        "tanggal": "2026-02-01 20:21:20"
+    },
+    {
+        "id": 1770058169,
+        "nama": "Air terjun kelelawar",
+        "daerah": "Riau",
+        "kategori": "Sungai",
+        "deskripsi": "air terjun tingkat",
+        "gambar": "uploads\/1770058169_Airterjunkelelawar.jpg",
+        "tanggal": "2026-02-02 18:49:29"
+    },
+    {
+        "id": 1770105222,
+        "nama": "Lembah hanai",
+        "daerah": "Sumatera barat",
+        "kategori": "Panorama",
+        "deskripsi": "lembah",
+        "gambar": "uploads\/1770105222_Lembahhanai.jpg",
+        "tanggal": "2026-02-03 07:53:42"
+    }
+]

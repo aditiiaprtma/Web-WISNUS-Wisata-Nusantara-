@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "$2y$10$YKvjudhmYMBvpXkP0ucsfOJJKJLD8dS4ZYYKUsO9fDeR4W3sXXTt6",
+        "role": "admin",
+        "api_key": "ADMIN_API_2026"
+    },
+    {
+        "id": 2,
+        "username": "user",
+        "password": "$2y$10$YKvjudhmYMBvpXkP0ucsfOJJKJLD8dS4ZYYKUsO9fDeR4W3sXXTt6",
+        "role": "user",
+        "api_key": "USER_API_2026"
+    },
+    {
+        "id": 1769667540,
+        "username": "repin",
+        "password": "$2y$10$gQvn7Q89jTLT2hw4qQFnrulygE9\/d\/sBB3jKsejyl8zlREaiHPVoi",
+        "role": "user",
+        "created_at": "2026-01-29 06:19:00"
+    },
+    {
+        "id": 1769756713,
+        "username": "Ijuk",
+        "password": "$2y$10$SJ64D1wUr9JiTzbeqYSG7OAxFWgaKOF3BfEYdTKKnGlB8zodpJs1a",
+        "role": "user",
+        "created_at": "2026-01-30 07:05:13"
+    },
+    {
+        "username": "PINPIN",
+        "password": "$2y$10$\/VexVNpyMgIA3fV1gzxTbecll3EbOFjsOXlbui2hrta4p\/CGwwuGa",
+        "role": "user"
+    },
+    {
+        "username": "RIRIN",
+        "password": "$2y$10$MEAInfQbJvdueI4qgPnG4ObMfw4P\/RzifvjMzFmvLnu.jjdbUSn0y",
+        "role": "user",
+        "api_key": "USER_API_1234"
+    },
+    {
+        "id": 1769931132,
+        "username": "adit",
+        "password": "$2y$10$bOKCjVVkmf09YNL5Yi7P8e6JXyEII1.99lRrDcEwrGSnVDWeis2eO",
+        "role": "user",
+        "created_at": "2026-02-01 07:32:12"
+    },
+    {
+        "id": 1769977607,
+        "username": "refinn",
+        "password": "$2y$10$zlnmnDhl6uUGxnXmU6Y14OeGeVoQfaXwNna5iYbJR5zthWdrKN0\/2",
+        "role": "user",
+        "created_at": "2026-02-01 20:26:47"
+    },
+    {
+        "id": 1770051502,
+        "username": "bundacorla",
+        "password": "$2y$10$GJ9amKuef6wCHJu3bd.DGuKNXg0DQ7N4hifQiPuf7yJBIeWoK\/9aO"
+    },
+    {
+        "id": 1770054411,
+        "username": "rumi",
+        "password": "$2y$10$WLg5szLtvavzyrcjt0d.HuPIdYdZLDdb.tK45uePKJkfhbljfI7J2"
+    },
+    {
+        "id": 1770105102,
+        "username": "retinn",
+        "password": "$2y$10$1IER8iJ5D6sjZLyYhoeyVOUHUAs3RJ8W7XCnQcQW\/FinEIRdSUw3e",
+        "role": "user",
+        "created_at": "2026-02-03 07:51:43"
+    }
+]
